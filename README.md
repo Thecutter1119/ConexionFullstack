@@ -166,7 +166,7 @@ MIT License - Ver archivo LICENSE para más detalles.
 
 ## 👨‍💻 Autor
 
-Desarrollado por: **Estudiante**
+Desarrollado por: **Thecutter1119**
 Fecha: **2024**
 
 ---
